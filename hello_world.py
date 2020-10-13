@@ -1,6 +1,11 @@
 
-message = "hello world"
-print(message)
+#message = "hello world"
+#print(message)
 
-messsage = "test push; new ssh"
-print(messsage)
+#message = "changed value"
+#print(message)
+
+name = " ada lovelace"
+print(name.title())
+print(name.upper())
+print(name.lower())
