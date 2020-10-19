@@ -5,3 +5,4 @@ print('\nI love pizza!')
 
 for value in range(0, 8, 3):
     print(value)
+    #range and loops
