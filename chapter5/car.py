@@ -1,2 +1,2 @@
-car = "bmw"
-print(car == "bmw")
+car = "test push"
+print(car == "test push")
